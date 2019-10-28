@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Knight Path</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="board_size_title">Board Size</string>
+    <string name="dialog_no_solution_title">No solution</string>
+    <string name="dialog_no_solution">The knight cannot reach the target square in 3 moves!</string>
+    <string name="reset">Reset</string>
+
+    <string name="_6">6</string>
+    <string name="_16">16</string>
+</resources>
